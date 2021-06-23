@@ -1,0 +1,13 @@
+C:\Users\Bella\source\repos\thingy\thingy\bin\Debug\netcoreapp3.1\staticexercise.exe
+C:\Users\Bella\source\repos\thingy\thingy\bin\Debug\netcoreapp3.1\staticexercise.deps.json
+C:\Users\Bella\source\repos\thingy\thingy\bin\Debug\netcoreapp3.1\staticexercise.runtimeconfig.json
+C:\Users\Bella\source\repos\thingy\thingy\bin\Debug\netcoreapp3.1\staticexercise.runtimeconfig.dev.json
+C:\Users\Bella\source\repos\thingy\thingy\bin\Debug\netcoreapp3.1\staticexercise.dll
+C:\Users\Bella\source\repos\thingy\thingy\bin\Debug\netcoreapp3.1\staticexercise.pdb
+C:\Users\Bella\source\repos\thingy\thingy\obj\Debug\netcoreapp3.1\staticexercise.csproj.AssemblyReference.cache
+C:\Users\Bella\source\repos\thingy\thingy\obj\Debug\netcoreapp3.1\staticexercise.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\thingy\thingy\obj\Debug\netcoreapp3.1\staticexercise.AssemblyInfo.cs
+C:\Users\Bella\source\repos\thingy\thingy\obj\Debug\netcoreapp3.1\staticexercise.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\thingy\thingy\obj\Debug\netcoreapp3.1\staticexercise.dll
+C:\Users\Bella\source\repos\thingy\thingy\obj\Debug\netcoreapp3.1\staticexercise.pdb
+C:\Users\Bella\source\repos\thingy\thingy\obj\Debug\netcoreapp3.1\staticexercise.genruntimeconfig.cache
